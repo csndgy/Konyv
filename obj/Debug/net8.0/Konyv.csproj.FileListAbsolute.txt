@@ -1,0 +1,14 @@
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\obj\Debug\net8.0\Konyv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\obj\Debug\net8.0\Konyv.AssemblyInfoInputs.cache
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\obj\Debug\net8.0\Konyv.AssemblyInfo.cs
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\obj\Debug\net8.0\Konyv.csproj.CoreCompileInputs.cache
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\bin\Debug\net8.0\Konyv.exe
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\bin\Debug\net8.0\Konyv.deps.json
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\bin\Debug\net8.0\Konyv.runtimeconfig.json
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\bin\Debug\net8.0\Konyv.dll
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\bin\Debug\net8.0\Konyv.pdb
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\obj\Debug\net8.0\Konyv.dll
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\obj\Debug\net8.0\refint\Konyv.dll
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\obj\Debug\net8.0\Konyv.pdb
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\obj\Debug\net8.0\Konyv.genruntimeconfig.cache
+C:\Users\gyarmati.csanad\source\repos\Konyv\Konyv\obj\Debug\net8.0\ref\Konyv.dll
